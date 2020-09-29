@@ -5,4 +5,4 @@
 
 Originally from Włocławek, now based in Bielsko-Biała
 
-Skills: Java, Kotlin, HTML, CSS, JS, React
+Skills: Java, Kotlin, Android API, HTML, CSS, JS, React
