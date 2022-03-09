@@ -3,6 +3,6 @@
 📖 avid reader.  
 🐶 owner of two wonderful dogs.  
 
-Originally from Włocławek, now based in Bielsko-Biała
+Originally from Włocławek, now based in Bydgoszcz
 
-Skills: Java, Kotlin, Android API, HTML, CSS, JS, React
+Skills: Kotlin, Java, Android API, HTML, CSS, JS, React
