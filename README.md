@@ -4,4 +4,4 @@
 
 Originally from Włocławek, now based in Bydgoszcz
 
-Skills: Kotlin, Java, Android API, HTML, CSS, JS, React
+Skills: Kotlin, Java, Android, Web development basics
