@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mateusz
 🏢 Senior Android Developer  
-📖 Avid reader
+📖 Avid reader  
 👶 Father
 
 Originally from Włocławek, now based in Bydgoszcz
