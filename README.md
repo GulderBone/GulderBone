@@ -3,8 +3,10 @@
 📖 Avid reader  
 👶 Father
 
-Originally from Włocławek, now based in Bydgoszcz
+Originally from Włocławek, now based in Gdańsk
 
+Experience: 5 years, 4 companies
+Worked in both startup and big company and team environments
 Skills: Kotlin, Java, Android, Web development basics
 
 Android libs / frameworks / technologies I'm familiar with:
