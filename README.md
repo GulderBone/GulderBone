@@ -1,11 +1,8 @@
 ### Hi there 👋, I'm Mateusz
-🏢 Senior Android Developer  
-📖 Avid reader  
-👶 Father
-
+Senior Android Developer | GDG Speaker | Teacher | Father | Husband
 Originally from Włocławek, now based in Gdańsk
 
-Experience: 5 years, 4 companies  
+Experience: 6 years, 5 companies  
 Worked in both startup and big company team environments  
 
 Skills: Kotlin, Java, Android, Web development basics
