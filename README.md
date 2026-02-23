@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Mateusz
 Senior Android Developer | Speaker | Teacher | Father | Husband
+
 Originally from Włocławek, now based in Gdańsk
 
 Experience: 7 years, 5 companies  
